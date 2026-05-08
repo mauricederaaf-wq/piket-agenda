@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//Piketrooster//Brandweer Piket//NL
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Piketrooster Jurgen Jacobs
+X-WR-CALNAME:Piketrooster Eldert Besseling
 X-WR-TIMEZONE:Europe/Amsterdam
-X-WR-CALDESC:Piketdiensten voor Jurgen Jacobs
+X-WR-CALDESC:Piketdiensten voor Eldert Besseling
 BEGIN:VTIMEZONE
 TZID:Europe/Amsterdam
 BEGIN:STANDARD
